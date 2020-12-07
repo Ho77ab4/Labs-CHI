@@ -1,0 +1,4 @@
+﻿  TODOList.cpp
+c:\internatura c++\chi-test-task\chi-test-task\todolist.cpp(19): warning C4018: <: несоответствие типов со знаком и без знака
+c:\internatura c++\chi-test-task\chi-test-task\todolist.cpp(38): warning C4018: <: несоответствие типов со знаком и без знака
+  CHI-test-task.vcxproj -> C:\INTERNATURA C++\CHI-test-task\Debug\CHI-test-task.exe
